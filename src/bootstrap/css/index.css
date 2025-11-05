@@ -1,0 +1,13 @@
+.welcome-section {
+    text-align: center;
+    padding: 50px 0;
+}
+
+.nav-buttons {
+    margin-top: 20px;
+}
+
+.nav-buttons .btn {
+    margin: 0 10px;
+    padding: 10px 30px;
+}
