@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="bootstrap/css/index.css">
 </head>
 <body>
-    <h1>Welcome to MIS</h1>
+    <h1>Welcome to Student MIS</h1>
     <nav>
         <a href="registration.php">Register</a> | 
     </nav>
